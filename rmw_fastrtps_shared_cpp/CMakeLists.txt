@@ -52,6 +52,7 @@ add_library(rmw_fastrtps_shared_cpp
   src/rmw_guard_condition.cpp
   src/rmw_logging.cpp
   src/rmw_node.cpp
+  src/rmw_node_and_locator_names.cpp
   src/rmw_node_info_and_types.cpp
   src/rmw_node_names.cpp
   src/rmw_publish.cpp
